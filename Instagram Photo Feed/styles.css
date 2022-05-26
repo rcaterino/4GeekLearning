@@ -1,0 +1,42 @@
+*{
+  font-family: 'Handlee', cursive;
+}
+body{
+  margin: 0;
+  background: gray;
+}
+header{
+  margin: 0;
+  width: 100%;
+  display: inline-block;
+  text-align: center;
+  background-color: white;
+}
+.contenedor{
+  width: 600px;
+  margin: 10px auto;
+  background: white;
+  padding: 0;
+}
+img{
+  max-width: 100%;
+  max-height: auto;
+  margin: 0;
+}
+span{
+  color: rgb(155, 155, 155);
+  float: right;
+  padding-top: 10px;
+  text-align: start;
+}
+h2 {
+  display: inline-block;
+  text-align: left;
+  margin: 0;
+  padding: 0;
+}
+p {
+  margin: 0;
+  padding: 0 2%;
+  text-align: justify;
+}
