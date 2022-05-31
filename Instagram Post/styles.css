@@ -11,8 +11,8 @@ body {
   font-family: 'Roboto';
   width: 450px;
   height: 670px;
-  margin: 0;
   padding: 0px;
+  margin: 10px auto;
 }
 .logo {
   display: inline-block;
@@ -58,3 +58,12 @@ i {
   padding: 3px;
   font-size:xx-large;
 }
+.icon {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+}
+.bookmark {
+  float: right;
+}
+
