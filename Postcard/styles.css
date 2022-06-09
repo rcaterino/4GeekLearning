@@ -1,6 +1,8 @@
 body {
 	width: auto;
 	height: auto;
+	background-color: gray;
+	padding: 10px;
 }
 * {
 	min-height: 10px;
@@ -9,8 +11,10 @@ body {
 .postcard {
 	background: white;
 	width: 400px;
-	height: 300px;
+	height: 250px;
 	margin: auto;
+	padding: 10px;
+	border-radius: 10px;
 }
 .postcard-header {
 	display: flex;
@@ -42,6 +46,7 @@ p {
 	text-align: center;
 }
 button {
+	margin-top: 10px;
 	padding: auto;
 	background-color: rgb(20, 143, 203);
 	border-radius: 5px;
