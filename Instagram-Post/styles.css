@@ -4,10 +4,12 @@
     font-family:Roboto-type;
 }
 body {
+  background-color: gray;
   font-family: 'Roboto';
   margin: 7px;
 }
 .post {
+  background-color: white;
   font-family: 'Roboto';
   width: 450px;
   height: 670px;
