@@ -27,13 +27,16 @@ span{
   color: rgb(155, 155, 155);
   float: right;
   padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 5px;
   text-align: start;
 }
 h2 {
   display: inline-block;
   text-align: left;
   margin: 0;
-  padding: 0;
+  padding-top: 5px;
+  padding-left: 10px;
 }
 p {
   margin: 0;
