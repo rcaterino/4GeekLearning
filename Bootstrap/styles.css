@@ -24,9 +24,20 @@ header{
   }
   img{
     max-width: 100%;
-    max-height: auto;
+    width: 300px; 
+    height: 300px;
     margin: 0;
+    overflow: hidden;
+    object-fit: cover;
   }
+  .fotos{
+    max-width: 100%;
+    width: 600px; 
+    height: 600px;
+    margin: 0;
+    overflow: hidden;
+    object-fit: cover;
+}
   span{
     color: rgb(155, 155, 155);
     float: right;
